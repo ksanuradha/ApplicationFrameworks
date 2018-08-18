@@ -43,7 +43,7 @@ public class CalculatorTester {
 		} catch (Exception e) {
 			
 		}*/
-		
+		//Regarding Test of deviding
 		assertEquals(answer,2,0);
 		
 	}
